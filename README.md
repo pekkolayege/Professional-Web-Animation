@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Web Projeleri</h1>
+<h1 align="center">🌐Profesyonel Web Projeleri</h1>
  
 <p align="center">
   HTML, CSS ve JavaScript kullanarak geliştirdiğim web projelerinin bir araya getirildiği repo.
@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
 </p>
----
+
  
 ## 📖 Hakkında
  
