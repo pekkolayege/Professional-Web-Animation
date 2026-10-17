@@ -14,14 +14,14 @@
  
 Bu repo, temel web teknolojileri (**HTML**, **CSS**, **JavaScript**) kullanılarak geliştirilen çeşitli proje ve çalışmaları içerir. Amaç; farklı arayüz tasarımları, interaktif bileşenler ve küçük uygulamalar üzerinden pratik yapmak ve öğrendiklerimi göstermektir.
  
----
+
  
 ## 🛠️ Kullanılan Teknolojiler
  
 - **HTML5** – Sayfa yapısı ve semantik içerik
 - **CSS3** – Stil, responsive tasarım, animasyonlar
 - **JavaScript (Vanilla)** – Etkileşim ve dinamik davranışlar
----
+
  
 
 ## 🎯 Amaç
@@ -32,13 +32,13 @@ Bu repo şu becerileri geliştirmek/sergilemek amacıyla oluşturulmuştur:
 - Modern CSS teknikleri (Flexbox, Grid, animasyon)
 - DOM manipülasyonu ve olay yönetimi (event handling)
 - Temiz ve okunabilir kod yazımı
----
+
  
 ## 📬 İletişim
  
 Herhangi bir soru, öneri ya da işbirliği için benimle iletişime geçebilirsin:
  
 - 📧 **[info@egepekkolay.com.tr]**
----
+
  
 <p align="center"><i>⭐️ Beğendiysen yıldız vermeyi unutma!</i></p>
